@@ -1,0 +1,78 @@
+body {
+background-color: #f0faff;
+border-top: 3px solid #0088cc;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  font-color: #333;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+padding-color: #C6E2FF;
+}
+.mainnav a{
+color: #000000;
+font-size: 20px;
+font-weight: normal;
+/*font-style: normal;*/
+padding: 0px 10px 0px 0px;
+display: inline;
+}
+
+.mainnav li{
+display:inline;
+width: 100px;
+/*float: left;*/
+font-style: normal;
+}
+
+.subnav li {
+position:hide;
+display:none;
+}
+
+.dropdown-menu li {
+position:hide;
+display:none;
+width: 150px;
+}
+
+.banner {
+background-image: url("#");
+height: 180px;
+background-repeat: no-repeat;
+background-size:cover;
+}
+/*
+.blue{
+background-color: #0088cc;
+height: 60px;
+}
+.skyblue{
+background-color: #D1EBF3;
+height: 60px;
+}
+*/
+.banner .container {
+position:relative;
+top:15px;
+bottom:40px;
+}
+
+.banner p{
+font-size: 20px;
+}
+
+.banner h1{
+color:#000000;
+font-size: 36px;
+font-weight: bold;
+padding: 0px 0px;
+}
+
+.footer p{
+color:#000000;
+font-size:13px;
+position:bottom;
+}
