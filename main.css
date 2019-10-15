@@ -11,10 +11,10 @@ color: #333333;
 body {
 background-color: #ffffff;
 border-top: 3px solid #0088cc;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 23px;
-  font-color: #333;
+  font-color: #333;*/
 padding-top: 20px;
 padding-right: 20px;
 padding-bottom: 20px;
@@ -108,8 +108,20 @@ color:#000080;
 font-size: 20px;
 }
 
-.footer p{
-color:#000000;
+.sideinfo {
+  font-color: #333333;
+  font-size: 18px;
+  line-height: 23px;
+}
+
+.featured {
+  font-color: #333333;
+  font-size: 18px;
+  line-height: 23px;
+}
+
+.footer {
+font-color:#000000;
 font-size:13px;
 position:bottom;
 }
