@@ -10,7 +10,7 @@ color: #333333;
 
 body {
 background-color: #ffffff;
-border-top: 3px solid #0088cc;
+border-top: 3px solid #0D9DE1 /*#0088cc*/;
  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   line-height: 23px;
@@ -36,7 +36,7 @@ color:#333333;
   color:#000000;
 }
 .mainnav a:hover{
-  color:#89cff0;
+  color:#0D9DE1;
 }
 /*
 .mainnav a:active{
@@ -53,13 +53,11 @@ display:inline;
 .subnav li {
 position:hide;
 display:none;
-}*/
-
-.dropdown-menu li {
+}
+.dropdown-menu {
 position:hide;
 display:list-item;
-/*width: 150px;*/
-}
+}*/
 
 .topbanner {
 /*background-image: url("#");*/
@@ -91,7 +89,7 @@ color:#000080;
 }
 
 .topbanner a:hover{
-  color:#89cff0;
+  color:#0D9DE1;
 }
 /*
 .topbanner a:active{
