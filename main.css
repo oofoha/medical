@@ -29,7 +29,20 @@ font-weight: normal;
 padding: 0px 10px 0px 0px;
 display: inline;
 }
-
+.mainnav a:link{
+color:#333333;
+}
+.mainnav a:visited{
+  color:#000000;
+}
+.mainnav a:hover{
+  color:#89cff0;
+}
+/*
+.mainnav a:active{
+  color:#000080;
+  text-decoration: underline;
+}*/
 .mainnav li{
 display:inline;
 /*width: 100px;*/
@@ -69,8 +82,26 @@ font-size: 36px;
 padding: 0px 0px;
 }
 
+.topbanner a:link{
+color:#000080;
+}
+
+.topbanner a:visited{
+  color:#000080;
+}
+
+.topbanner a:hover{
+  color:#89cff0;
+}
+/*
+.topbanner a:active{
+  color:#000080;
+  text-decoration: underline;
+}*/
+
 .tagline{
   color: #333333;
+  font-style: italic;
 }
 
 .banner p{
