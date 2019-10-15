@@ -11,10 +11,7 @@ color: #333333;
 body {
 background-color: #ffffff;
 border-top: 3px solid #0D9DE1 /*#0088cc*/;
- /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  line-height: 23px;
-  font-color: #333;*/
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 padding-top: 20px;
 padding-right: 20px;
 padding-bottom: 20px;
@@ -25,18 +22,22 @@ padding-color: #89cff0;
 color: #333333;
 font-size: 15px;
 font-weight: normal;
-/*font-style: normal;*/
+font-style: normal;
 padding: 0px 10px 0px 0px;
 display: inline;
+text-decoration: none;
 }
 .mainnav a:link{
 color:#333333;
+ text-decoration: none;
 }
 .mainnav a:visited{
   color:#000000;
+  text-decoration: none;
 }
 .mainnav a:hover{
   color:#0D9DE1;
+  text-decoration: none;
 }
 /*
 .mainnav a:active{
@@ -82,14 +83,17 @@ padding: 0px 0px;
 
 .topbanner a:link{
 color:#000080;
+  text-decoration: none;
 }
 
 .topbanner a:visited{
   color:#000080;
+  text-decoration: none;
 }
 
 .topbanner a:hover{
   color:#0D9DE1;
+  text-decoration: none;
 }
 /*
 .topbanner a:active{
