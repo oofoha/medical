@@ -9,12 +9,12 @@
   
 <body>
 <h1 class="clinic"><a href="index.html">Clinic Name</a></h1>
+<table>
+<tr>
+  <td>
 <h2 class="tag">Tagline</h2>
-<div class="topbanner">
-<div class="container">
-</div>
-</div>
-
+  </td>
+  <td>
 <div class="mainnav">
 <ul>
 <li><a href="#">Services</a></li>
@@ -24,6 +24,14 @@
 <li><a href="#">About Us</a></li>
 <li><a href="#">Contact Us</a></li>
 </ul>
+</div>
+  </td>
+  </tr>
+  </table>
+  
+<div class="topbanner">
+<div class="container">
+</div>
 </div>
 
 <main>
@@ -39,7 +47,8 @@
 
 <div class="footer">
 <p>Phone: (xxx)xxx-xxxx </br>Fax: (xxx)xxx-xxxx</br>emailaddress@medicalclinicsite</p>
-<p>&copy; <?php echo date("Y");?> Clinic Name</p>
+<!--<p>&copy; <?php echo date("Y");?> Clinic Name</p>-->
+<p>&copy; 2012-<script>document.write(new Date().getFullYear())</script> Clinic Name</p>
 </div>
 
 </body>
