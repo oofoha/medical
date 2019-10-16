@@ -11,6 +11,7 @@ color: #333333;
 body {
 background-color: #ffffff;
 border-top: 3px solid #0D9DE1 /*#0088cc*/;
+border-bottom: 3px solid #0D9DE1;
 font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 /*padding-top: 50px;
 padding-right: 50px;
@@ -76,9 +77,10 @@ position:relative;
 
 .clinic {
 color:#000080;
-/*font-size: 36px;*/
+font-size: 36px;
 /*font-weight: bold;*/
 padding: 0px 0px 0px 0px;
+line-height: 30px;
 }
 
 .clinic a:link{
@@ -103,7 +105,9 @@ color:#000080;
 
 .tag{
   color: #333333;
+  font-size: 25px;
   font-style: italic;
+  line-height: 20px;
 }
 
 .banner p{
