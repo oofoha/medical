@@ -21,7 +21,7 @@ padding-color: #89cff0;*/
 }
 .mainnav a{
 color: #333333;
-font-size: 15px;
+font-size: 20px;
 font-weight: normal;
 font-style: normal;
 padding: 0px 10px 0px 0px;
@@ -105,9 +105,9 @@ color:#000080;
 
 .tag{
   color: #333333;
-  font-size: 25px;
+  font-size: 20px;
   font-style: italic;
-  line-height: 20px;
+  line-height: 15px;
 }
 
 .banner p{
