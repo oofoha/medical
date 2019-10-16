@@ -115,12 +115,16 @@ font-size: 20px;
 }
 
 .sideinfo {
+  vertical-align: top;
+  text-align: left;
   font-color: #333333;
   font-size: 18px;
   line-height: 23px;
 }
 
 .featured {
+  vertical-align: top;
+  text-align: center;
   font-color: #333333;
   font-size: 18px;
   line-height: 23px;
