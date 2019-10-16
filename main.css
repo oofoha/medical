@@ -12,10 +12,10 @@ body {
 background-color: #89cff0;
 border-top: 3px solid #0D9DE1 /*#0088cc*/;
 font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-padding-top: 20px;
-padding-right: 20px;
-padding-bottom: 20px;
-padding-left: 20px;
+padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
 padding-color: #ffffff;
 }
 .mainnav a{
@@ -23,7 +23,7 @@ color: #333333;
 font-size: 15px;
 font-weight: normal;
 font-style: normal;
-padding: 0px 10px 0px 0px;
+padding: 0px 0px 0px 0px;
 display: inline;
 text-decoration: none;
 }
