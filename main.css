@@ -61,11 +61,11 @@ display:list-item;
 }*/
 
 .topbanner {
-/*background-image: url("#");*/
+background-image: url("Atlanta_PiedmontPark001-large.jpg");
 /*background-color:#aaaaaa;*/
 height: 180px;
-/*background-repeat: no-repeat;
-background-size:cover;*/
+background-repeat: no-repeat;
+background-size:cover;
 }
 
 .topbanner .container {
@@ -74,34 +74,34 @@ position:relative;
 /*bottom:40px;*/
 }
 
-.topbanner h1{
+.clinic {
 color:#000080;
 /*font-size: 36px;*/
 /*font-weight: bold;*/
 padding: 0px 0px 0px 0px;
 }
 
-.topbanner a:link{
+.clinic a:link{
 color:#000080;
   text-decoration: none;
 }
 
-.topbanner a:visited{
+.clinic a:visited{
   color:#000080;
   text-decoration: none;
 }
 
-.topbanner a:hover{
+.clinic a:hover{
   color:#0D9DE1;
   text-decoration: none;
 }
 /*
-.topbanner a:active{
+.clinic a:active{
   color:#000080;
   text-decoration: underline;
 }*/
 
-.tagline{
+.tag{
   color: #333333;
   font-style: italic;
 }
