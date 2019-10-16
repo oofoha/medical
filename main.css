@@ -21,7 +21,7 @@ padding-color: #89cff0;*/
 }
 .mainnav a{
 color: #333333;
-font-size: 20px;
+font-size: 16px;
 font-weight: normal;
 font-style: normal;
 padding: 0px 10px 0px 0px;
@@ -62,7 +62,7 @@ display:list-item;
 }*/
 
 .topbanner {
-background-image: url("Atlanta_PiedmontPark001-large.jpg");
+background-image: url("Atlanta_PiedmontPark001-large-cropped.jpg");
 /*background-color:#aaaaaa;*/
 height: 180px;
 background-repeat: no-repeat;
@@ -107,7 +107,7 @@ color:#000080;
   color: #333333;
   font-size: 20px;
   font-style: italic;
-  line-height: 15px;
+  line-height: 18px;
 }
 
 .banner p{
