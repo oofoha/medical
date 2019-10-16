@@ -62,7 +62,7 @@ display:list-item;
 
 .topbanner {
 /*background-image: url("#");*/
-background-color:#aaaaaa;
+/*background-color:#aaaaaa;*/
 height: 180px;
 /*background-repeat: no-repeat;
 background-size:cover;*/
@@ -70,15 +70,15 @@ background-size:cover;*/
 
 .topbanner .container {
 position:relative;
-top:15px;
-bottom:40px;
+/*top:15px;*/
+/*bottom:40px;*/
 }
 
 .topbanner h1{
 color:#000080;
 /*font-size: 36px;*/
 /*font-weight: bold;*/
-padding: 0px 0px;
+padding: 0px 0px 0px 0px;
 }
 
 .topbanner a:link{
