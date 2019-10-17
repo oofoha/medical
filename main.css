@@ -115,8 +115,9 @@ font-size: 20px;
 }
 
 .homeinfo {
-  width: 90%;
-  margin: 0px 20px 0px 0px;
+  /*width: 90%;*/
+  /*margin: 0px 20px 0px 0px;*/
+  align: center;
 }
 
 .sideinfo {
