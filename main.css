@@ -141,6 +141,16 @@ background-size:cover;
   line-height: 23px;
 }
 
+.featuredmain {
+  vertical-align: top;
+  text-align: center;
+  padding: 5px 0px 5px 0px;
+  font-color: #333333;
+  font-size: 18px;
+  line-height: 16px;
+  width:100%;
+}
+
 .footer {
 font-color:#000000;
 font-size:14px;
