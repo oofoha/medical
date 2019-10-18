@@ -151,9 +151,19 @@ background-size:cover;
   line-height: 23px;
 }
 
+section.intro {
+  vertical-align: top;
+  text-align: center;
+  padding: 5px 0px 5px 0px;
+  font-color: #aaaaaa;
+  font-size: 18px;
+  line-height: 23px;
+  width:100%;
+}
+
 .featuredmain {
   vertical-align: top;
-  /*text-align: center;*/
+  text-align: justify;
   padding: 5px 0px 5px 0px;
   font-color: #333333;
   font-size: 18px;
