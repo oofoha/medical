@@ -62,20 +62,14 @@ color:#333333;
   text-decoration: underline;
 }*/
 .nav li{
-display:inline;
-/*width: 100px;*/
-/*float: left;*/
-/*font-style: normal;*/
+color: #333333;
+font-size: 16px;
+font-weight: normal;
+font-style: normal;
+padding: 0px 10px 0px 0px;
+display: inline;
+text-decoration: none;
 }
-/*
-.subnav li {
-position:hide;
-display:none;
-}
-.dropdown-menu {
-position:hide;
-display:list-item;
-}*/
 
 .topbanner {
 background-image: url("Atlanta_PiedmontPark001-large-cropped.jpg");
@@ -159,7 +153,7 @@ background-size:cover;
 
 .featuredmain {
   vertical-align: top;
-  text-align: center;
+  /*text-align: center;*/
   padding: 5px 0px 5px 0px;
   font-color: #333333;
   font-size: 18px;
