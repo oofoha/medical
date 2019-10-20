@@ -207,11 +207,11 @@ position:bottom;
 .featured {
   font-color: #333333;
 }
-.newpatients h2 {
+.featured h2 {
   text-align: center;
   color:#333333;
 }
-.newpatients p {
+.featured p {
   color:#333333;
   text-align:center;
   font-size: 18px;
