@@ -191,6 +191,22 @@ color:#333333;
   color:#0D9DE1;
   text-decoration: none;
 }
+.otherlinks .a {
+color: #333333;
+text-decoration: none;
+}
+.otherlinks .a:link {
+color:#333333;
+ text-decoration: none;
+}
+.otherlinks .a:visited {
+  color:#000000;
+  text-decoration: none;
+}
+.otherlinks .a:hover {
+  color:#0D9DE1;
+  text-decoration: none;
+}
 
 footer {
 font-color:#000000;
