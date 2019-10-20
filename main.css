@@ -175,35 +175,35 @@ section.intro {
   line-height: 23px;
   width:100%;
 }
-.featuredmain .a {
+.featuredmain a {
 color: #333333;
 text-decoration: none;
 }
-.featuredmain .a:link {
+.featuredmain a:link {
 color:#333333;
  text-decoration: none;
 }
-.featuredmain .a:visited {
+.featuredmain a:visited {
   color:#000000;
   text-decoration: none;
 }
-.featuredmain .a:hover {
+.featuredmain a:hover {
   color:#0D9DE1;
   text-decoration: none;
 }
-.otherlinks .a {
+.otherlinks a {
 color: #333333;
 text-decoration: none;
 }
-.otherlinks .a:link {
+.otherlinks a:link {
 color:#333333;
  text-decoration: none;
 }
-.otherlinks .a:visited {
+.otherlinks a:visited {
   color:#000000;
   text-decoration: none;
 }
-.otherlinks .a:hover {
+.otherlinks a:hover {
   color:#0D9DE1;
   text-decoration: none;
 }
