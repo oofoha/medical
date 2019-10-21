@@ -237,3 +237,6 @@ position:bottom;
   margin: auto;
   width: 50%;
 }
+.clearfix {
+  overflow: auto;
+}
