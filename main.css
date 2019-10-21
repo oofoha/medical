@@ -235,11 +235,9 @@ position:bottom;
 
 .featured table{
   margin: auto;
-  width: 25%;
-  border-collapse: collapse;
-  border: 1px solid black;
-  tr:nth-child(even) {background-color: #f2f2f2;}
+  width: 50%;
 }
+
 .clearfix {
   overflow: auto;
 }
