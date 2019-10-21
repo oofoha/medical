@@ -146,6 +146,11 @@ background-size:cover;
   line-height: 23px;
 }
 
+.homepg {
+  max-width: 500px;
+  margin: auto;
+}
+
 section.intro {
   vertical-align: top;
   text-align: center;
@@ -206,6 +211,7 @@ position:bottom;
 
 .featured {
   font-color: #333333;
+  overflow-x:auto;
 }
 .featured h2 {
   text-align: center;
@@ -216,4 +222,18 @@ position:bottom;
   text-align:center;
   font-size: 18px;
   line-height: 23px;
+}
+
+.featured th {
+  color:#333333;
+}
+
+.featured td {
+  color:#333333;
+  padding: 0px 15px 0px 0px;
+}
+
+.featured table{
+  margin: auto;
+  width: 80%;
 }
