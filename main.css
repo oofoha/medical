@@ -230,10 +230,10 @@ position:bottom;
 
 .featured td {
   color:#333333;
-  padding: 0px 15px 0px 0px;
+  padding: 0px 10px 0px 0px;
 }
 
 .featured table{
   margin: auto;
-  width: 80%;
+  width: 50%;
 }
