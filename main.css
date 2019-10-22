@@ -206,6 +206,8 @@ position:bottom;
 .featured {
   font-color: #333333;
   overflow-x:auto;
+  max-width: 1000px;
+  margin: auto;
 }
 .featured h2 {
   text-align: center;
