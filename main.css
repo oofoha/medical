@@ -35,7 +35,6 @@ font-size: 16px;
 font-weight: normal;
 font-style: normal;
 padding: 0px 10px 0px 0px;
-display: inline;
 text-decoration: none;
 }
 .mainnav a:link {
@@ -55,7 +54,7 @@ color:#333333;
   color:#000080;
   text-decoration: underline;
 }*/
-.mainnav .li {
+.mainnav li {
 color: #333333;
 font-size: 16px;
 font-weight: normal;
@@ -64,6 +63,7 @@ padding: 0px 10px 0px 0px;
 display: inline;
 text-decoration: none;
 }
+
 body {
 background-color: #ffffff;
 border-top: 3px solid #0D9DE1 /*#0088cc*/;
