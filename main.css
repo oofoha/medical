@@ -198,8 +198,8 @@ color:#333333;
 }
 
 .threecolumn {
-  max-width: 1000px;
-  margin: auto;
+  /*max-width: 1000px;
+  margin: auto;*/
   vertical-align: top;
   text-align: center;
   /*padding: 5px 0px 5px 0px;*/
@@ -214,7 +214,7 @@ color:#333333;
   clear: both;
 }
 .col {
-  float: left;
+  float: right;
   width: 33.3%;
   padding: 5px 0px 5px 0px;
 }
