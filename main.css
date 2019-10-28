@@ -197,6 +197,33 @@ color:#333333;
   text-decoration: none;
 }
 
+.threecolumn {
+  max-width: 1000px;
+  margin: auto;
+  vertical-align: top;
+  text-align: center;
+  /*padding: 5px 0px 5px 0px;*/
+  font-color: #333333;
+  font-size: 18px;
+  line-height: 23px;
+  /*width:100%;*/
+}
+.threecolumn:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.col {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+@media screen and (max-width:600px) {
+  .col {
+    width: 100%;
+  }
+}
+
 footer {
 font-color:#000000;
 font-size:14px;
