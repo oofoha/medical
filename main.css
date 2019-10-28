@@ -218,7 +218,7 @@ color:#333333;
   width: 33.33%;
   padding: 15px;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:400px) {
   .col {
     width: 100%;
   }
