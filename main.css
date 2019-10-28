@@ -198,11 +198,10 @@ color:#333333;
 }
 
 .threecolumn {
-  /*max-width: 1000px;
-  margin: auto;*/
+  /*max-width: 1000px;*/
+  margin: auto;
   vertical-align: top;
   text-align: center;
-  /*padding: 5px 0px 5px 0px;*/
   font-color: #333333;
   font-size: 18px;
   line-height: 23px;
@@ -214,11 +213,11 @@ color:#333333;
   clear: both;
 }
 .col {
-  float: right;
+  float: left;
   width: 33.3%;
   padding: 5px 0px 5px 0px;
 }
-@media screen and (max-width:300px) {
+@media screen and (max-width:400px) {
   .col {
     width: 100%;
   }
