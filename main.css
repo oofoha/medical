@@ -264,6 +264,14 @@ position:bottom;
   overflow: auto;
 }
 
+.contactbanner {
+background-image: url("officefront_allrightsreservedforklmedicalclinic_donotdistribute.jpg");
+/*background-color:#aaaaaa;*/
+height: 180px;
+background-repeat: no-repeat;
+background-size:cover;
+}
+
 .gallery {
   margin: 5px;
   border: 0px solid #fff;
