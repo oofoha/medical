@@ -29,15 +29,17 @@ color:#333333;
   text-decoration: none;
 }
 
-.mainnav li {
-display: inline;
+.mainnav {
+display: block;
+  overflow: hidden;
+  float: left;
+  padding: 0px 8px 0px 8px;
 }
 .mainnav a {
 color: #333333;
 font-size: 16px;
 font-weight: normal;
 font-style: normal;
-padding: 0px 15px 0px 0px;
 text-decoration: none;
 }
 .mainnav a:link {
