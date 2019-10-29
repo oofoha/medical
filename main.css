@@ -266,9 +266,9 @@ position:bottom;
 
 .contactbanner {
 background-image: url("officefront_allrightsreservedforklmedicalclinic_donotdistribute.jpg");
-height: 180px;
+/*height: 180px;*/
 background-repeat: no-repeat;
-background-size: 100% 100%;
+background-size: contain;
 }
 
 .gallery {
