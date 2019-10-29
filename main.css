@@ -74,7 +74,7 @@ background-image: url("Atlanta_PiedmontPark001-large-cropped.jpg");
 /*background-color:#aaaaaa;*/
 height: 180px;
 background-repeat: no-repeat;
-background-size:cover;
+background-size:contain;
 }
 
 .topbanner .container {
