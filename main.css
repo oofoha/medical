@@ -264,6 +264,7 @@ position:bottom;
 
 .clearfix {
   overflow: auto;
+  padding: 5px 0px 0px 0px;
 }
 
 .contactbanner {
