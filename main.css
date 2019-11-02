@@ -265,6 +265,13 @@ position:bottom;
 .clearfix {
   overflow: auto;
 }
+.portrait img {
+  float:left;
+  max-width:100%;
+  height:auto;
+  margin-right:20px;
+  margin-top:10px;
+}
 
 .contactbanner {
 background-image: url("officefront_allrightsreservedforklmedicalclinic_donotdistribute.jpg");
