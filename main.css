@@ -278,6 +278,7 @@ position:bottom;
   max-width:100%;
   height:auto;
   margin-right:20px;
+  margin-left: 10px;
   margin-top:10px;
   overflow: auto;
 }
