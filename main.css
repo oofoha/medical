@@ -283,6 +283,16 @@ position:bottom;
   overflow: auto;
 }
 
+.imgleft img{
+  float:left;
+  max-width:100%;
+  height:auto;
+  margin-left:20px;
+  margin-right: 10px;
+  margin-top:10px;
+  overflow: auto;
+}
+
 .contactbanner {
 background-image: url("officefront_allrightsreservedforklmedicalclinic_donotdistribute.jpg");
 /*height: 180px;*/
