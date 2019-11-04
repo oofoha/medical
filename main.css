@@ -4,6 +4,10 @@ color: #000080;
 .grey-text {
 color: #333333;
 }
+.grey-text td{
+ padding: 0px 10px 0px 0px; 
+}
+
 .black-text {
   color:#000000;
 }
