@@ -296,6 +296,15 @@ background-repeat: no-repeat;
 background-size: contain;
 }
 
+.officebanner {
+ background-image: url("waitingarea_allrightsreservedforklmedicalclinic_donotdistribute.jpg");
+/*height: 180px;*/
+max-width: 100%;
+height: auto;
+background-repeat: no-repeat;
+background-size: contain;
+}
+
 .gallery {
   margin: 5px;
   border: 0px solid #fff;
