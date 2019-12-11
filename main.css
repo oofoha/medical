@@ -226,11 +226,6 @@ color:#333333;
   width: 33.3%;
   padding: 0px 0px 5px 0px;
 }
-@media screen and (max-width:400px) {
-  .col {
-    width: 100%;
-  }
-}
 
 .twocolumn {
   /*max-width: 1000px;*/
@@ -253,7 +248,10 @@ color:#333333;
   padding: 0px 0px 5px 0px;
 }
 @media screen and (max-width:400px) {
-  .cola {
+  .col {
+    width: 100%;
+  }
+   .cola {
     width: 100%;
   }
 }
