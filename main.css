@@ -323,6 +323,10 @@ position:bottom;
   margin-top:10px;
 }
 
+.urgentcarelist {
+  max-width: 1000px;
+  margin: auto;
+}
 .contactbanner {
 background-image: url("officefront_allrightsreservedforklmedicalclinic_donotdistribute.jpg");
 /*height: 180px;*/
