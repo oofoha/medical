@@ -408,10 +408,10 @@ background-size: contain;
   color: #fff;
   text-align: center;
   border-radius: 6px;
-  padding: 4px 0px 1px 0px;
+  padding: 4px 0px 4px 0px;
   position: absolute;
   z-index: 1;
-  top: 0px;
+  top: 0%;
 }
 /* Toggle this class - hide and show the popup */
 .popup .hide {
