@@ -404,8 +404,8 @@ background-size: contain;
 .popup .popuptext {
   visibility: show;
   width:100%;
-  background-color: #0D9DE1;
-  color: #000;
+  background-color: #000080;
+  color: #fff;
   text-align: center;
   border-radius: 6px;
   padding: 8px 0;
