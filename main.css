@@ -390,3 +390,42 @@ background-size: contain;
   text-decoration: none;
   cursor: pointer;
 }
+
+/* Popup container - can be anything you want */
+.popup {
+  cursor: pointer;
+  width:fit-content;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+/* The actual popup */
+.popup .popuptext {
+  visibility: show;
+  width:100%;
+  background-color: #000080;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  top: 0px;
+}
+/* Toggle this class - hide and show the popup */
+.popup .hide {
+  visibility: hidden;
+  -webkit-animation: fadeOut 1s;
+  animation: fadeOut 1s;
+}
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeOut {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+@keyframes fadeOut {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+
