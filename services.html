@@ -16,6 +16,27 @@
   gtag('config', 'G-CPYMWF88Q2');
 </script>
 <body>
+  
+  <div class="popup" onclick="myFunction()">
+  <span class="popuptext" id="medWeightPopup">Medical Weight Loss Management Now Available <span class="close" style="padding:0px 10px 0px 10px">&times;</span></span>
+</div>
+
+<script>
+  var popup = document.getElementById("medWeightPopup");
+  var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on div, hide the popup
+function myFunction() {
+  popup.classList.toggle("hide");
+}
+// Get the <span> element that closes the modal
+
+// When the user clicks on <span> (x), close the popup
+span.onclick = function() {
+  popup.style.display = "none";
+}
+</script>
+  
 <table>
 <tr>
   <td style="vertical-align:bottom">
@@ -79,6 +100,7 @@
 <tr><td>Pancreas</td><td>Pelvic & OB</td></tr>
 <tr><td>Prostate</td><td>Testicles</td></tr>
 <tr><td>Thyroid</td><td></td></tr>
+<tr><th colspan="2"><span style="font: italic">New Service:</span>Medical Weight Loss Management</th></tr>
 </table>
   </div>
     </div>
